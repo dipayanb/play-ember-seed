@@ -1,4 +1,4 @@
-Play EmberJs Seed
+**Play EmberJs Seed**
 ===
 
 This is a seed project which includes a `Ember Js` ui application and includes ember-cli's workflow into plays workflow.
